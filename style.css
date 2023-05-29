@@ -1,0 +1,53 @@
+body{
+    background-color:#1c87c9;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+
+#title{
+    color:white;
+    margin-top: 50px;
+    text-align: center;
+}
+table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    width:600px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color:lightblue;
+  }
+#name{
+    text-align: center;
+    padding: 10px;
+}
+.tableData1{
+    text-align:center;
+    padding: 10px;
+}
+.tableData2{
+    text-align:center;
+    padding:10px;
+}
+#profile{
+    border:3px solid blue;
+    padding:10px;
+    
+}
+.tableData3{
+    padding-left:10px;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+caption{
+    color:white;
+    font-size:20px;
+    caption-side: bottom;
+}
